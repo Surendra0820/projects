@@ -1,2 +1,1 @@
-# projects
-sample projects for resume
+# Library-Management-System
